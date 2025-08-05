@@ -1,4 +1,4 @@
-# Excel Reader Python
+# Python Excel Reader 
 
 This Python script reads an Excel workbook, applies a 10% discount to prices listed in column 3 (C), writes the corrected prices into column 4 (D), and generates a bar chart based on the corrected prices.
 
